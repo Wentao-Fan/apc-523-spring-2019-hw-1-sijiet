@@ -1,0 +1,3 @@
+When you compute the relative error, the "correct" value you use should have one or more digits than the computed one, or the computed relative error would not have any significant figure.
+In part (c), according to the convergence criterion stated in the problem, the partial sum converges at k = 17, giving a slightly different result.
+(i) and (ii) in part (d) converges to wrong results.
