@@ -1,0 +1,3 @@
+In (i) of part (a), you have (n-1) operations, not n operations.
+In (ii) of part (a), you made a mistake in the expansion of exp( n*ln(x)( 1 + \epsilon_{n} + \epsilon_{ln} ) ).
+In part (b), you made a few mistakes and therefore the conclusion is incorrect.
